@@ -1,0 +1,10 @@
+
+.card{
+    display: inline-block;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+    
+}
